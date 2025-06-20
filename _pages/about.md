@@ -1,34 +1,21 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+social: true  # includes social icons at the bottom of the page
 ---
+I’m a Research Engineer at [Animaker](), where I head a focused AI research team, driving projects end-to-end — from prototyping Deep Learning models to deploying Production-Ready AI features at scale across products like Steve.ai, Animaker, and Picmaker. My work lies at the intersection of Computer Vision, Natural Language Processing, and Generative AI, focusing on building intelligent systems that automate video creation — from script-to-live/genAI/animation pipelines and Talking Head Animated Characters to Video Matting and GenAI-powered video creation using Animaker 2.0 Pre-built scenes.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Before this, I completed my Master’s by Research in Computer Science at [IIIT Hyderabad](https://www.iiit.ac.in/) [CVIT Lab](https://cvit.iiit.ac.in/), advised by [Dr. Vineet Gandhi](https://www.iiit.ac.in/faculty/vineet-gandhi/). My research focused on Multi-Camera Detection and Tracking, specifically improving Generalization in Deep Multi-View Pedestrian Detection across diverse camera setups, changing camera positions, and orientation — bridging simulation and real-world performance (Sim2Real) by synthetically generating data from GTA-V and Unity game.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m passionate about R&D, translating research into robust, real-world AI systems, and I'm always curious about the intersection of Perception, Creativity, and Technology.
