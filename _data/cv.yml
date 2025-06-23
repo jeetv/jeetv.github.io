@@ -32,7 +32,7 @@
         - CGPA: 8.96/10.0
     - title: Diploma in Computer Science
       institution: Shri Baghubhai Mafatlal Polytechnic
-      img: ../assets/img/sbmp.png
+      img: ../assets/img/sbmp.jpeg
       year: 2012 - 2015
       description:
         - CGPA: 8.2/10.0
@@ -42,6 +42,7 @@
   contents:
     - title: Research Engineer
       institution: Animaker India Pvt. Ltd.
+      img: ../assets/img/animaker.png
       year: 2022 - Present
       description:
         - Leading AI-ML R&D for products: Steve.ai, Animaker, Vmaker, and Picmaker.
@@ -53,6 +54,7 @@
           - Talking Head AI – Advanced lip-sync for animated characters.
     - title: Research Student
       institution: Star Sports (via IIIT Hyderabad)
+      img: ../assets/img/ss.png
       year: 2020 - 2023
       description:
         - Project Supervisor : Dr. Vineet Gandhi
@@ -66,12 +68,14 @@
             – Tamil Nadu Premier League (TNPL)
     - title: Research Collaborator
       institution: Apple (via IIIT Hyderabad)
+      img: ../assets/img/apple.png
       year: 2022
       description:
         - Project Supervisor : Dr. Vineet Gandhi
         - Developed PoC for video classification and action recognition for industrial iphone assembly operations.
     - title: Software Engineer
       institution: Vistaar Technologies, Inc.
+      img: ../assets/img/vistaar.jpg
       year: 2018 - 2019
       description:
         - Worked as part of the Reimbursement Solution Team, analyzing and providing technical solutions.
@@ -83,6 +87,7 @@
   contents:
     - title: AI-ML Mentor
       institution: InLustro Learning
+      img: ../assets/img/inlustro.png
       year: 2024 - Present
       description:
         - Providing industry-relevant AI-ML training and mentorship to students, professionals, and faculty members through lecture sessions and hands-on workshops.
@@ -90,6 +95,7 @@
         - Collaborated with clients, including L&T Madh Training Academy and MLR Institute of Technology, to deliver tailored AI-ML solutions.
     - title: Teaching Assistant - Statistical Methods in AI
       institution: IIIT Hyderabad
+      img: ../assets/img/iiitlogo.png
       year: 2022
       description:
         - Lecturer: Dr. Vineet Gandhi
@@ -97,6 +103,7 @@
         - Prepared assignments, conducted lab sessions/tutorials, and guided students through projects.
     - title: AI-ML Mentor
       institution: TalentSprint
+      img: ../assets/img/ts.jpg
       year: 2021 - 2022
       description:
         - Supervisor: Dr. Anoop Namboodiri.
@@ -112,6 +119,12 @@
       year: 2023
       description:
         - Proposed a generalizable model for multi-camera detection.
+        - Proposed and evaluated a model incorporating generalization for multi-camera detection across varying camera setups and new
+          scenes.
+        - Achieved a 20% improvement in MODA and MODP metrics over benchmarks.
+        - Created synthetic datasets for multi-camera detection using GTA-V and Unity game engines.
+        - Developed post-processing tools for joint calibration and synchronization of multiple cameras.
+        - Demonstrated strong generalization from synthetic to real-world scenarios (Sim2Real).
         - "[Link](https://openaccess.thecvf.com/content/WACV2023W/RWS/html/Vora_Bringing_Generalization_to_Deep_Multi-View_Pedestrian_Detection_WACVW_2023_paper.html)"
 
 - title: Skills
