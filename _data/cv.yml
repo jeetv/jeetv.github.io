@@ -9,8 +9,6 @@
       value: "+91-9930363408"
     - name: Location
       value: India
-    - name: Languages
-      value: English
     - name: GitHub
       value: https://github.com/jeetv
     - name: LinkedIn
@@ -43,24 +41,39 @@
       institution: Animaker India Pvt. Ltd.
       year: 2022 - Present
       description:
-        - Leading AI-ML R&D for products: Steve.ai, Vmaker, and Picmaker.
-        - Key projects: Image/video matting, Script-to-animation, Lip-sync for animated characters.
+        - Leading AI-ML R&D for products: Steve.ai, Animaker, Vmaker, and Picmaker.
+        - Key projects:
+          - Picmaker AI – Image and video matting, template search optimization.
+          - Vmaker AI – Transforming raw footage into polished videos.
+          - Steve.ai – Automating script-to-animation/live video and text-to-GenAI video creation.
+          - Animaker AI – AI-powered moment search and the next-gen Animaker AI 2.0.
+          - Talking Head AI – Advanced lip-sync for animated characters.
     - title: Research Student
       institution: Star Sports (via IIIT Hyderabad)
       year: 2020 - 2023
       description:
-        - Developed real-time player tracking at 30fps with 4K/FullHD live streaming.
-        - Worked on calibration, homography, and player merging in bird's-eye view.
+        - Project Supervisor : Dr. Vineet Gandhi
+        - Developed Real-Time Player Tracking at 30fps with 4K/FullHD live streaming.
+        - Formulated player merging from multiple cameras in bird’s eye view as a linear assignment problem.
+        - Worked on camera calibration and homography for cricket grounds to enable multi-camera player tracking, bird’s-eye view transformations, and real-world trajectory analysis.
+        - Set up infrastructure using Blackmagic Design products for 4K live streaming and processing.
+        - Deployed and broadcasted technology for live matches at:
+            – Asia Cup 2022 (UAE, Dubai)
+            – Asia Cup 2023 (Sri Lanka)
+            – Tamil Nadu Premier League (TNPL)
     - title: Research Collaborator
       institution: Apple (via IIIT Hyderabad)
       year: 2022
       description:
-        - Developed PoC for video classification and action recognition for industrial assembly operations.
+        - Project Supervisor : Dr. Vineet Gandhi
+        - Developed PoC for video classification and action recognition for industrial iphone assembly operations.
     - title: Software Engineer
       institution: Vistaar Technologies, Inc.
       year: 2018 - 2019
       description:
-        - Worked on SaaS-based reimbursement solutions for clients such as Diageo and Brown-Forman.
+        - Worked as part of the Reimbursement Solution Team, analyzing and providing technical solutions.
+        - Directly involved in development, delivery and onboarding of Vistaar’s Saas based Reimbursement product for clients.
+        - Designed and implemented tailored solutions for Diageo, E. & J. Gallo Winery, and Brown-Forman, improving and streamlining processes, maximizing recovery, and enhancing customer success.
 
 - title: Mentorship & Teaching
   type: time_table
@@ -69,17 +82,24 @@
       institution: InLustro Learning
       year: 2024 - Present
       description:
-        - Mentored 14 AI-ML projects, delivered training to L&T and MLR Institute of Technology.
+        - Providing industry-relevant AI-ML training and mentorship to students, professionals, and faculty members through lecture sessions and hands-on workshops.
+        - Mentored 14 AI-ML projects, guiding teams in model development, optimization, and deployment.
+        - Collaborated with clients, including L&T Madh Training Academy and MLR Institute of Technology, to deliver tailored AI-ML solutions.
     - title: Teaching Assistant - Statistical Methods in AI
       institution: IIIT Hyderabad
       year: 2022
       description:
-        - Prepared assignments and conducted tutorials, guided students in projects.
+        - Lecturer: Dr. Vineet Gandhi
+        - Course: Statistical Methods in AI (SMAI), Spring 2022.
+        - Prepared assignments, conducted lab sessions/tutorials, and guided students through projects.
     - title: AI-ML Mentor
       institution: TalentSprint
       year: 2021 - 2022
       description:
-        - Supervised 4 project teams under IIIT-Hyderabad AI/ML program.
+        - Supervisor: Dr. Anoop Namboodiri.
+        - Mentored AI-ML projects as part of the AI/ML program by IIIT Hyderabad and TalentSprint.
+        - Provided guidance on AI-ML projects and conducted lab sessions.
+        - Supervised 4 teams working on Image Tagging and Road Object Detection.
 
 - title: Publications
   type: time_table
@@ -94,6 +114,12 @@
 - title: Skills
   type: nested_list
   contents:
+    - title: Programming
+      items:
+          - Python
+          - C
+          - C++
+          - SQL
     - title: Deep Learning
       items:
         - PyTorch
@@ -116,14 +142,12 @@
         - Torchserve
         - Flask
         - Docker
-    - title: Programming
+    - title: Big Data & Analytics
       items:
-        - Python
-        - C
-        - C++
-        - SQL
+        - ElasticSearch
+        - Kibana
 
-- title: Academic Interests
+- title: Research Interests
   type: list
   contents:
     - Computer Vision
@@ -131,3 +155,13 @@
     - Multi-Camera Detection and Tracking
     - Creative AI
     - Generalization
+
+- title: Courses
+  type: list
+  contents:
+    - Statistical Methods in AI
+    - Digital Image Processing
+    - Computer Vision
+    - Mobile Robotics
+    - Optimization Methods
+    - Topics in Applied Optimization
