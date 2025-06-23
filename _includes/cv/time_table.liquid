@@ -25,6 +25,11 @@
                 {% endif %}
               </tbody>
             </table>
+            {% if content.image %}
+                <div class="mt-2">
+                <img src="{{ content.image }}" class="img-fluid" style="max-width: 65px; height: auto;">
+                </div>
+            {% endif %}
           </div>
         {% endif %}
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
