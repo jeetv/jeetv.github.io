@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
+nav_order: 4
 cv_pdf: Jeet_Vora_CV_2.pdf # you can also use external links here
 description: 
 toc:

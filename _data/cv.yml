@@ -19,20 +19,20 @@
   contents:
     - title: Master’s by Research in Computer Science
       institution: IIIT Hyderabad
-      img: ../assets/img/iiitlogo.png
+      img: /assets/img/iiitlogo.png
       year: 2019 - 2023
       description:
         - Specialization in Artificial Intelligence and Robotics
         - CGPA 8.2/10.0
     - title: Bachelor of Engineering in Computer Science
       institution: University of Mumbai
-      img: ../assets/img/mu.png
+      img: /assets/img/mu.png
       year: 2015 - 2018
       description:
         - CGPA 8.96/10.0
     - title: Diploma in Computer Science
       institution: Shri Baghubhai Mafatlal Polytechnic
-      img: ../assets/img/sbmp.jpeg
+      img: /assets/img/sbmp.jpeg
       year: 2012 - 2015
       description:
         - CGPA 8.2/10.0
@@ -42,12 +42,11 @@
   contents:
     - title: Research Engineer
       institution: Animaker India Pvt. Ltd.
-      img: ../assets/img/animaker.png
+      img: /assets/img/animaker.png
       year: 2022 - Present
       description:
         - Leading AI-ML R&D for products Steve.ai, Animaker, Vmaker, and Picmaker.
         - Key projects include,
-      contents:
         - Picmaker AI – Image and video matting, template search optimization.
         - Vmaker AI – Transforming raw footage into polished videos.
         - Steve.ai – Automating script-to-animation/live video and text-to-GenAI video creation.
@@ -55,7 +54,7 @@
         - Talking Head AI – Advanced lip-sync for animated characters.
     - title: Research Student
       institution: Star Sports (via IIIT Hyderabad)
-      img: ../assets/img/ss.png
+      img: /assets/img/ss.png
       year: 2020 - 2023
       description:
         - <b>Project Supervisor Dr. Vineet Gandhi</b>
@@ -64,13 +63,12 @@
         - Worked on camera calibration and homography for cricket grounds to enable multi-camera player tracking, bird’s-eye view transformations, and real-world trajectory analysis.
         - Set up infrastructure using Blackmagic Design products for 4K live streaming and processing.
         - Deployed and broadcasted technology for live matches at,
-      contents:
-        – Asia Cup 2022 (UAE, Dubai)
-        – Asia Cup 2023 (Sri Lanka)
-        – Tamil Nadu Premier League (TNPL)
+        - Asia Cup 2022 (UAE, Dubai).
+        - Asia Cup 2023 (Sri Lanka).
+        - Tamil Nadu Premier League (TNPL).
     - title: Research Collaborator
       institution: Apple (via IIIT Hyderabad)
-      img: ../assets/img/apple.png
+      img: /assets/img/apple.png
       year: 2022
       description:
         - <b>Project Supervisor Dr. Vineet Gandhi</b>
@@ -89,7 +87,7 @@
   contents:
     - title: AI-ML Mentor
       institution: InLustro Learning
-      img: ../assets/img/inlustro.png
+      img: /assets/img/inlustro.png
       year: 2024 - Present
       description:
         - Providing industry-relevant AI-ML training and mentorship to students, professionals, and faculty members through lecture sessions and hands-on workshops.
@@ -97,7 +95,7 @@
         - Collaborated with clients, including L&T Madh Training Academy and MLR Institute of Technology, to deliver tailored AI-ML solutions.
     - title: Teaching Assistant - Statistical Methods in AI
       institution: IIIT Hyderabad
-      img: ../assets/img/iiitlogo.png
+      img: /assets/img/iiitlogo.png
       year: 2022
       description:
         - <b>Lecturer Dr. Vineet Gandhi</b>
@@ -105,7 +103,7 @@
         - Prepared assignments, conducted lab sessions/tutorials, and guided students through projects.
     - title: AI-ML Mentor
       institution: TalentSprint
-      img: ../assets/img/ts.jpg
+      img: /assets/img/ts.jpg
       year: 2021 - 2022
       description:
         - <b>Supervisor Dr. Anoop Namboodiri</b>
