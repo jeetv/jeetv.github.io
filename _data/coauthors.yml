@@ -32,17 +32,3 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
-
-"gandhi":
-  - firstname: ["Vineet"]
-    url: https://www.iiit.ac.in/faculty/vineet-gandhi/
-
-"jain":
-  - firstname: ["Kanishk"]
-    url: https://kanji95.github.io/
-
-"karthik":
-  - firstname: ["Shyamgopal"]
-    url: https://sgk98.github.io/
-
-
