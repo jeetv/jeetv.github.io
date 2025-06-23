@@ -23,19 +23,19 @@
       year: 2019 - 2023
       description:
         - Specialization in Artificial Intelligence and Robotics
-        - CGPA: 8.2/10.0
+        - CGPA 8.2/10.0
     - title: Bachelor of Engineering in Computer Science
       institution: University of Mumbai
       img: ../assets/img/mu.png
       year: 2015 - 2018
       description:
-        - CGPA: 8.96/10.0
+        - CGPA 8.96/10.0
     - title: Diploma in Computer Science
       institution: Shri Baghubhai Mafatlal Polytechnic
       img: ../assets/img/sbmp.jpeg
       year: 2012 - 2015
       description:
-        - CGPA: 8.2/10.0
+        - CGPA 8.2/10.0
 
 - title: Experience
   type: time_table
@@ -45,40 +45,42 @@
       img: ../assets/img/animaker.png
       year: 2022 - Present
       description:
-        - Leading AI-ML R&D for products: Steve.ai, Animaker, Vmaker, and Picmaker.
-        - Key projects:
-          - Picmaker AI – Image and video matting, template search optimization.
-          - Vmaker AI – Transforming raw footage into polished videos.
-          - Steve.ai – Automating script-to-animation/live video and text-to-GenAI video creation.
-          - Animaker AI – AI-powered moment search and the next-gen Animaker AI 2.0.
-          - Talking Head AI – Advanced lip-sync for animated characters.
+        - Leading AI-ML R&D for products Steve.ai, Animaker, Vmaker, and Picmaker.
+        - Key projects include,
+      contents:
+        - Picmaker AI – Image and video matting, template search optimization.
+        - Vmaker AI – Transforming raw footage into polished videos.
+        - Steve.ai – Automating script-to-animation/live video and text-to-GenAI video creation.
+        - Animaker AI – AI-powered moment search and the next-gen Animaker AI 2.0.
+        - Talking Head AI – Advanced lip-sync for animated characters.
     - title: Research Student
       institution: Star Sports (via IIIT Hyderabad)
       img: ../assets/img/ss.png
       year: 2020 - 2023
       description:
-        - Project Supervisor : Dr. Vineet Gandhi
-        - Developed Real-Time Player Tracking at 30fps with 4K/FullHD live streaming.
+        - <b>Project Supervisor Dr. Vineet Gandhi</b>
+        - Developed <b>Real-Time Player Tracking</b> at 30fps with 4K/FullHD live streaming.
         - Formulated player merging from multiple cameras in bird’s eye view as a linear assignment problem.
         - Worked on camera calibration and homography for cricket grounds to enable multi-camera player tracking, bird’s-eye view transformations, and real-world trajectory analysis.
         - Set up infrastructure using Blackmagic Design products for 4K live streaming and processing.
-        - Deployed and broadcasted technology for live matches at:
-            – Asia Cup 2022 (UAE, Dubai)
-            – Asia Cup 2023 (Sri Lanka)
-            – Tamil Nadu Premier League (TNPL)
+        - Deployed and broadcasted technology for live matches at,
+      contents:
+        – Asia Cup 2022 (UAE, Dubai)
+        – Asia Cup 2023 (Sri Lanka)
+        – Tamil Nadu Premier League (TNPL)
     - title: Research Collaborator
       institution: Apple (via IIIT Hyderabad)
       img: ../assets/img/apple.png
       year: 2022
       description:
-        - Project Supervisor : Dr. Vineet Gandhi
-        - Developed PoC for video classification and action recognition for industrial iphone assembly operations.
+        - <b>Project Supervisor Dr. Vineet Gandhi</b>
+        - Developed PoC for <b>Video Classification and Action Recognition</b> for industrial iphone assembly operations.
     - title: Software Engineer
       institution: Vistaar Technologies, Inc.
       img: ../assets/img/vistaar.jpg
       year: 2018 - 2019
       description:
-        - Worked as part of the Reimbursement Solution Team, analyzing and providing technical solutions.
+        - Worked as part of the <b>Reimbursement Solution Team</b>, analyzing and providing technical solutions.
         - Directly involved in development, delivery and onboarding of Vistaar’s Saas based Reimbursement product for clients.
         - Designed and implemented tailored solutions for Diageo, E. & J. Gallo Winery, and Brown-Forman, improving and streamlining processes, maximizing recovery, and enhancing customer success.
 
@@ -98,15 +100,15 @@
       img: ../assets/img/iiitlogo.png
       year: 2022
       description:
-        - Lecturer: Dr. Vineet Gandhi
-        - Course: Statistical Methods in AI (SMAI), Spring 2022.
+        - <b>Lecturer Dr. Vineet Gandhi</b>
+        - Course Statistical Methods in AI (SMAI), Spring 2022.
         - Prepared assignments, conducted lab sessions/tutorials, and guided students through projects.
     - title: AI-ML Mentor
       institution: TalentSprint
       img: ../assets/img/ts.jpg
       year: 2021 - 2022
       description:
-        - Supervisor: Dr. Anoop Namboodiri.
+        - <b>Supervisor Dr. Anoop Namboodiri</b>
         - Mentored AI-ML projects as part of the AI/ML program by IIIT Hyderabad and TalentSprint.
         - Provided guidance on AI-ML projects and conducted lab sessions.
         - Supervised 4 teams working on Image Tagging and Road Object Detection.
@@ -125,7 +127,6 @@
         - Created synthetic datasets for multi-camera detection using GTA-V and Unity game engines.
         - Developed post-processing tools for joint calibration and synchronization of multiple cameras.
         - Demonstrated strong generalization from synthetic to real-world scenarios (Sim2Real).
-        - "[Link](https://openaccess.thecvf.com/content/WACV2023W/RWS/html/Vora_Bringing_Generalization_to_Deep_Multi-View_Pedestrian_Detection_WACVW_2023_paper.html)"
 
 - title: Skills
   type: nested_list
