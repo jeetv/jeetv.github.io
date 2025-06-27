@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of cool projects (Work in Progress - Will Update Soon...)
+description: Projects will be updated soon (Work in Progress.....)
 nav: true
 nav_order: 3
 display_categories: [work, fun]
