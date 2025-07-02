@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Projects will be updated soon (Work in Progress.....)
+description: (Project page Work in Progress.....)
 nav: true
 nav_order: 3
 display_categories: [work]
@@ -34,8 +34,38 @@ horizontal: false
         %}
       </div>
       <div class="caption mt-2 text-center">
-        CVIT Lab, IIIT-Hyderabad R&D Showcase - Multi Camera Pedestrian Detection and Tracking.
+        CVIT Lab, IIIT-Hyderabad R&D Showcase <br>
+        Multi Camera Pedestrian Detection and Tracking <br>
         (GMVD Dataset samples, Cricket Player Tracking demo)
+      </div>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-md-6 mb-4">
+      <div class="ratio ratio-16x9">
+        {% include video.liquid 
+            path="https://www.youtube.com/embed/AaWtbsLU7Bk?si=Mdor2WhRGPJgqxNZ" 
+            class="rounded z-depth-1"
+            width="100%"
+            height="250"
+        %}
+      </div>
+      <div class="caption mt-2 text-center">
+        Apple Iphone Assembly PoC - CVIT Lab, IIIT-Hyderabad  <br>
+        Video Action/Activity Recognition for industrial assembly operations.
+      </div>
+    </div>
+    <div class="col-md-6 mb-4">
+      <div class="ratio ratio-16x9">
+        {% include video.liquid 
+            path="https://www.youtube.com/embed/xGcqd0jVJ4o?si=qL-siAls6QzySiqm"
+            class="rounded z-depth-1"
+            width="100%"
+            height="250"
+        %}
+      </div>
+      <div class="caption mt-2 text-center">
+        Multi-Camera Background Subtracted Pedestrian and <br> Occupancy Map Projection
       </div>
     </div>
   </div>
@@ -43,102 +73,149 @@ horizontal: false
 
 [//]: # (<!-- pages/projects.md -->)
 
+[//]: # ()
 [//]: # (<div class="projects">)
 
+[//]: # ()
 [//]: # ({% if site.enable_project_categories and page.display_categories %})
 
+[//]: # ()
 [//]: # (  <!-- Display categorized projects -->)
 
+[//]: # ()
 [//]: # (  {% for category in page.display_categories %})
 
+[//]: # ()
 [//]: # (  <a id="{{ category }}" href=".#{{ category }}">)
 
+[//]: # ()
 [//]: # (    <h2 class="category">{{ category }}</h2>)
 
+[//]: # ()
 [//]: # (  </a>)
 
+[//]: # ()
 [//]: # (  {% assign categorized_projects = site.projects | where: "category", category %})
 
+[//]: # ()
 [//]: # (  {% assign sorted_projects = categorized_projects | sort: "importance" %})
 
+[//]: # ()
 [//]: # (  <!-- Generate cards for each project -->)
 
+[//]: # ()
 [//]: # (  {% if page.horizontal %})
 
+[//]: # ()
 [//]: # (  <div class="container">)
 
+[//]: # ()
 [//]: # (    <div class="row row-cols-1 row-cols-md-2">)
 
+[//]: # ()
 [//]: # (    {% for project in sorted_projects %})
 
+[//]: # ()
 [//]: # (      {% include projects_horizontal.liquid %})
 
+[//]: # ()
 [//]: # (    {% endfor %})
 
+[//]: # ()
 [//]: # (    </div>)
 
+[//]: # ()
 [//]: # (  </div>)
 
+[//]: # ()
 [//]: # (  {% else %})
 
+[//]: # ()
 [//]: # (  <div class="row row-cols-1 row-cols-md-3">)
 
+[//]: # ()
 [//]: # (    {% for project in sorted_projects %})
 
+[//]: # ()
 [//]: # (      {% include projects.liquid %})
 
+[//]: # ()
 [//]: # (    {% endfor %})
 
+[//]: # ()
 [//]: # (  </div>)
 
+[//]: # ()
 [//]: # (  {% endif %})
 
+[//]: # ()
 [//]: # (  {% endfor %})
 
+[//]: # ()
 [//]: # ()
 [//]: # ({% else %})
 
 [//]: # ()
+[//]: # ()
 [//]: # (<!-- Display projects without categories -->)
 
+[//]: # ()
 [//]: # ()
 [//]: # ({% assign sorted_projects = site.projects | sort: "importance" %})
 
 [//]: # ()
+[//]: # ()
 [//]: # (  <!-- Generate cards for each project -->)
 
+[//]: # ()
 [//]: # ()
 [//]: # ({% if page.horizontal %})
 
 [//]: # ()
+[//]: # ()
 [//]: # (  <div class="container">)
 
+[//]: # ()
 [//]: # (    <div class="row row-cols-1 row-cols-md-2">)
 
+[//]: # ()
 [//]: # (    {% for project in sorted_projects %})
 
+[//]: # ()
 [//]: # (      {% include projects_horizontal.liquid %})
 
+[//]: # ()
 [//]: # (    {% endfor %})
 
+[//]: # ()
 [//]: # (    </div>)
 
+[//]: # ()
 [//]: # (  </div>)
 
+[//]: # ()
 [//]: # (  {% else %})
 
+[//]: # ()
 [//]: # (  <div class="row row-cols-1 row-cols-md-3">)
 
+[//]: # ()
 [//]: # (    {% for project in sorted_projects %})
 
+[//]: # ()
 [//]: # (      {% include projects.liquid %})
 
+[//]: # ()
 [//]: # (    {% endfor %})
 
+[//]: # ()
 [//]: # (  </div>)
 
+[//]: # ()
 [//]: # (  {% endif %})
 
+[//]: # ()
 [//]: # ({% endif %})
 
+[//]: # ()
 [//]: # (</div>)
