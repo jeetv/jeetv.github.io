@@ -3,7 +3,7 @@ layout: page
 title: video
 description: this is what included videos could look like
 tags: formatting videos
-categories: work
+categories: 
 ---
 
 This is an example post with videos. It supports local video files.

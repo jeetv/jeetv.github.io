@@ -4,6 +4,8 @@
   {% if extension == 'mp4' or extension == 'webm' or extension == 'ogg' %}
     <video
       src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
+      {% if include.style %}style="{{ include.style }}"
+      {% else %}
       {% if include.class %}
         class="{{ include.class }}"
       {% endif %}
@@ -28,6 +30,7 @@
       {% endif %}
       {% if include['max-height'] %}
         height="{{ include.max-height }}"
+      {% endif %}
       {% endif %}
       {% if include.title %}
         title="{{ include.title }}"
