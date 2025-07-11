@@ -51,11 +51,6 @@ ninja.data = [{
           description: "this is what included videos could look like",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -96,6 +91,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-star-sports-real-time-player-tracking",
+          title: 'Star Sports, Real-Time Player Tracking',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/star_sports/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
