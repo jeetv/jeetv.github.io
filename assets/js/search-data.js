@@ -91,11 +91,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-animaker-project-portfolio",
+          title: 'Animaker Project Portfolio',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/animaker/";
             },},{id: "projects-star-sports-real-time-player-tracking",
           title: 'Star Sports, Real-Time Player Tracking',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/star_sports/";
+            },},{id: "projects-youtube-video-summarizer",
+          title: 'Youtube Video Summarizer',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/yt_video_summarizer/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
