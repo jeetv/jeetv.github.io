@@ -4,7 +4,7 @@ title: Star Sports, Real-Time Player Tracking
 description: 
 img: assets/img/star-project.png
 importance: 1
-category: work
+category: work (proprietary)
 ---
 
 A **Real-Time Player Tracking System** for cricket, successfully deployed during the **Asia Cup 2022 and 2023**. The system processes overhead camera feeds to track all 11 fielders simultaneously, delivering precise positional data at **30 FPS**, and visualizing an interactive **Bird’s Eye View (BEV)** of the field.
