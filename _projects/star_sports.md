@@ -87,7 +87,7 @@ Read below detailed blog -
   </div>
   <div class="col-sm mt-3 mt-md-0">
     <video autoplay loop muted class="img-fluid rounded z-depth-1">
-      <source src="/assets/video/star8.MP4" type="video/mp4">
+      <source src="/assets/video/star8.mp4" type="video/mp4">
     </video>
   </div>
   <div class="col-sm mt-3 mt-md-0">
