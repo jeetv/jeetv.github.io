@@ -11,7 +11,7 @@ A **Real-Time Player Tracking System** for cricket, successfully deployed during
 
 ### Key Features
 - Fully automated **Computer Vision and Machine Learning pipeline** for player detection and tracking.
-- Seamless integration into live broadcast graphics in collaboration with **Disney Star Sports** and **AELive**.
+- Seamless integration into live broadcast graphics in collaboration with **[Disney Star Sports](https://www.jiostar.com/)** and **[AELive](https://www.ae.live/)**.
 - Engineered to handle **challenging broadcast conditions**, including variable lighting, occlusions from spider cams and umpires, and complex player detections in crowded scenes.
 
 This project represents a successful transition from lab research to field deployment, demonstrating how innovative sports analytics can transform live cricket coverage. Grateful to **IIIT-Hyderabad** for fostering a research environment that enabled this work.
