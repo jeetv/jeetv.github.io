@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: Jeet_Vora_CV_2.pdf # you can also use external links here
+cv_pdf: Jeet-Vora-CV.pdf # you can also use external links here
 description: 
 toc:
   sidebar: left

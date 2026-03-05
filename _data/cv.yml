@@ -41,47 +41,57 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Consultant
+        institution: King Abdullah University of Science and Technology (KAUST)
+        year: 2025 - Present
+        image: ../assets/img/kaust.png
+        description:
+          - <b>Research Collaboration - IVUL Lab, KAUST - Prof. Bernard Ghanem, Dr. Silvio Giancola, Dr. Karen Sanchez, Dr. Merey Ramazanova, and Jintao Ma.</b>
+          - Leading research and system design for SoccerNetPro, a large scale football video understanding framework for spatio-temporal AI modeling.
+          - Architecting a modular and extensible Python research library supporting Action Classification, Temporal Localization, Retrieval, and Automated Video Description.
+          - Developing scalable training, inference, and evaluation pipelines for multi-modal inputs, including raw video, frame sequences, pre-extracted features, and player tracking data.
+          - Establishing reproducible experimentation protocols and benchmarking standards for standardized evaluation across large annotated sports datasets.
+          - Conducting empirical studies on model generalization, efficiency, and performance trade-offs to advance research in sports video analytics.
     - title: Research Engineer
       institution: Animaker India Pvt. Ltd.
-      year: 2022 - Present
+      year: 2022 - 2025
       image: ../assets/img/animaker.png
       description:
-        - Leading AI-ML R&D for products Steve.ai, Animaker, Vmaker, and Picmaker.
-        - Key projects include,
-        - Picmaker AI – Image and video matting, template search optimization.
-        - Vmaker AI – Transforming raw footage into polished videos.
-        - Steve.ai – Automating script-to-animation/live video and text-to-GenAI video creation.
-        - Animaker AI – AI-powered moment search and the next-gen Animaker AI 2.0.
-        - Talking Head AI – Advanced lip-sync for animated characters.
+          - Led applied research in AI-ML (CV/NLP) across multiple Animaker platforms (Animaker, Steve.ai, Picmaker, Vmaker), delivering AI systems serving 25M+ users.
+          - Designed and optimized deep learning models for video/image matting, multimodal retrieval, script-to-Animated video generation, script-to-GenAI video architecture, controllable character builder pipeline, and audio driven talking-head animation.
+          - Implemented knowledge distillation and model compression techniques achieving 8× inference speedup, enabling 4 concurrent model workers on a single 24GB GPU.
+          - Architected end-to-end ML pipelines including dataset curation, training infrastructure, evaluation protocols, CI/CD integration, and GPU optimized scalable deployment.
+          - Drove cross-functional collaboration with Product, DevOps, and Engineering teams to transition research prototypes into reliable, production grade AI services.
     - title: Research Student
       institution: Star Sports (via IIIT Hyderabad)
       year: 2020 - 2023
       image: ../assets/img/ss.png
       description:
-        - <b>Project Supervisor Dr. Vineet Gandhi</b>
-        - Developed <b>Real-Time Player Tracking</b> at 30fps with 4K/FullHD live streaming.
-        - Formulated player merging from multiple cameras in bird’s eye view as a linear assignment problem.
-        - Worked on camera calibration and homography for cricket grounds to enable multi-camera player tracking, bird’s-eye view transformations, and real-world trajectory analysis.
-        - Set up infrastructure using Blackmagic Design products for 4K live streaming and processing.
-        - Deployed and broadcasted technology for live matches at,
-        - Asia Cup 2022 (UAE, Dubai).
-        - Asia Cup 2023 (Sri Lanka).
-        - Tamil Nadu Premier League (TNPL).
+          - <b> Project Supervisor - CVIT Lab, IIITH - Dr. Vineet Gandhi </b>
+          - Developed <b>Real-Time Player Tracking</b> at 30fps with 4K/FullHD live streaming.
+          - Formulated player merging from multiple cameras in bird’s eye view as a linear assignment problem.
+          - Worked on camera calibration and homography for cricket grounds to enable multi-camera player tracking, bird’s-eye view transformations, and real-world trajectory analysis.
+          - Set up infrastructure using Blackmagic Design products for 4K live streaming and processing.
+          - Deployed and broadcasted technology for live matches at,
+          - Asia Cup 2022 (UAE, Dubai).
+          - Asia Cup 2023 (Sri Lanka).
+          - Tamil Nadu Premier League (TNPL).
     - title: Research Collaborator
       institution: Apple (via IIIT Hyderabad)
       year: 2022
       image: ../assets/img/apple.png
       description:
-        - <b>Project Supervisor Dr. Vineet Gandhi</b>
-        - Developed PoC for <b>Video Classification and Action Recognition</b> for industrial iphone assembly operations.
+          - <b> Project Supervisor - CVIT Lab, IIITH - Dr. Vineet Gandhi </b>
+          - Developed a video understanding prototype for industrial assembly-line monitoring using deep learning based <b>Video Classification and Action Recognition with Temporal modeling techniques</b>.
+          - Designed and evaluated spatio-temporal models to classify fine-grained assembly operations under real-world production constraints.
     - title: Software Engineer
       institution: Vistaar Technologies, Inc.
       year: 2018 - 2019
       image: ../assets/img/vistaar.jpg
       description:
-        - Worked as part of the <b>Reimbursement Solution Team</b>, analyzing and providing technical solutions.
-        - Directly involved in development, delivery and onboarding of Vistaar’s Saas based Reimbursement product for clients.
-        - Designed and implemented tailored solutions for Diageo, E. & J. Gallo Winery, and Brown-Forman, improving and streamlining processes, maximizing recovery, and enhancing customer success.
+          - Worked as part of the <b>Reimbursement Solution Team</b>, analyzing and providing technical solutions.
+          - Directly involved in development, delivery and onboarding of Vistaar’s Saas based Reimbursement product for clients.
+          - Designed and implemented tailored solutions for Diageo, E. & J. Gallo Winery, and Brown-Forman, improving and streamlining processes, maximizing recovery, and enhancing customer success.
 
 - title: Mentorship & Teaching
   type: time_table
