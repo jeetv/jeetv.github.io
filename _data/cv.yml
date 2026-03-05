@@ -42,10 +42,10 @@
   type: time_table
   contents:
     - title: Research Consultant
-        institution: King Abdullah University of Science and Technology (KAUST)
-        year: 2025 - Present
-        image: ../assets/img/kaust.png
-        description:
+      institution: King Abdullah University of Science and Technology (KAUST)
+      year: 2025 - Present
+      image: ../assets/img/kaust.png
+      description:
           - <b>Research Collaboration - IVUL Lab, KAUST - Prof. Bernard Ghanem, Dr. Silvio Giancola, Dr. Karen Sanchez, Dr. Merey Ramazanova, and Jintao Ma.</b>
           - Leading research and system design for SoccerNetPro, a large scale football video understanding framework for spatio-temporal AI modeling.
           - Architecting a modular and extensible Python research library supporting Action Classification, Temporal Localization, Retrieval, and Automated Video Description.
