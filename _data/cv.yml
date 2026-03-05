@@ -177,10 +177,11 @@
   type: list
   contents:
     - Computer Vision
-    - Deep Learning
-    - Multi-Camera Detection and Tracking
+    - Video Understanding
+    - Multi-Camera Visual Perception
     - Creative AI
     - Generalization
+    - Vision based Sports Broadcasting and Analytics
 
 - title: Courses
   type: list
