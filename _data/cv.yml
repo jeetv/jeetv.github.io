@@ -47,11 +47,19 @@
       image: ../assets/img/kaust.png
       description:
           - <b>Research Collaboration - IVUL Lab, KAUST - Prof. Bernard Ghanem’s group; primarily collaborating with Dr. Silvio Giancola, Dr. Karen Sanchez, Dr. Merey Ramazanova, and Jintao Ma.</b>
-          - Leading research and system design for SoccerNetPro, a large scale football video understanding framework for spatio-temporal AI modeling.
-          - Architecting a modular and extensible Python research library supporting Action Classification, Temporal Localization, Retrieval, and Automated Video Description.
-          - Developing scalable training, inference, and evaluation pipelines for multi-modal inputs, including raw video, frame sequences, pre-extracted features, and player tracking data.
-          - Establishing reproducible experimentation protocols and benchmarking standards for standardized evaluation across large annotated sports datasets.
-          - Conducting empirical studies on model generalization, efficiency, and performance trade-offs to advance research in sports video analytics.
+          - Project Page: https://github.com/OpenSportsLab/opensportslib
+          - Documentation: https://opensportslab.github.io/opensportslib
+          - PyPI: https://pypi.org/project/opensportslib
+          - Leading the research, architecture, and development of OpenSportsLib, a large scale sports video understanding framework
+            focused on spatio-temporal AI modeling and multimodal perception.
+          - Architecting a modular and extensible Python research library supporting Action Classification, Temporal Localization, Retrieval,
+            and Dense Video Description.
+          - Developing scalable training, inference, and evaluation pipelines for multi-modal inputs, including raw video, frame sequences,
+            pre-extracted features, and player tracking data.
+          - Establishing reproducible experimentation protocols and benchmarking standards for standardized evaluation across large annotated
+            sports datasets.
+          - Conducting empirical studies on model generalization, efficiency, and performance trade-offs to advance research in sports video
+            analytics.
     - title: Research Engineer
       institution: Animaker India Pvt. Ltd.
       year: 2022 - 2025
